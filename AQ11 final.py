@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-from itertools import combinations
-
 
 # upravi data aby sa neopakovali a vrati 2 vystupy: 
 # trenovaciu mnozinu ktora ma urcenu triedu
